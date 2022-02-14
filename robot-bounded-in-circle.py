@@ -50,9 +50,6 @@ class Solution(object):
         current_direction = "N"
         position = [0, 0]
         
-        # stopping count
-        count = len(instructions)*2 if len(instructions)//2==0 else len(instructions)*3
-        
         for _ in range(len(instructions)*2):
             for i in instructions:
                 # check direction based on instruction

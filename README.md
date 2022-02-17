@@ -8,3 +8,4 @@ Leetcode Challenges Solutions
 | First Unique Character in a String| https://leetcode.com/problems/first-unique-character-in-a-string/ | Easy | :heavy_check_mark: |
 | Design HashMap | https://leetcode.com/problems/design-hashmap/ | Easy | ✖️ |
 | Count Number of Teams | https://leetcode.com/problems/count-number-of-teams/ | Medium | ✖️ |
+| String Compression | https://leetcode.com/problems/string-compression/ | Medium | ✖️ |

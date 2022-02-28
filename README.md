@@ -11,3 +11,4 @@ Leetcode Challenges Solutions
 | String Compression | https://leetcode.com/problems/string-compression/ | Medium | ✖️ |
 | String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/ | Medium | ✔️ |
 | Fraction Addition and Subtraction | https://leetcode.com/problems/fraction-addition-and-subtraction/ | Medium | ✔️ |
+| K-diff Pairs in an Array | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | Medium | ✖️ |

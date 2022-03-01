@@ -12,3 +12,4 @@ Leetcode Challenges Solutions
 | String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/ | Medium | ✔️ |
 | Fraction Addition and Subtraction | https://leetcode.com/problems/fraction-addition-and-subtraction/ | Medium | ✔️ |
 | K-diff Pairs in an Array | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | Medium | ✖️ |
+| Design Underground System | https://leetcode.com/problems/design-underground-system/ | Medium | ✔️ |

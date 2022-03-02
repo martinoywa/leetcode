@@ -13,3 +13,4 @@ Leetcode Challenges Solutions
 | Fraction Addition and Subtraction | https://leetcode.com/problems/fraction-addition-and-subtraction/ | Medium | ✔️ |
 | K-diff Pairs in an Array | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | Medium | ✖️ |
 | Design Underground System | https://leetcode.com/problems/design-underground-system/ | Medium | ✔️ |
+| Remove All Adjacent Duplicates in String II | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/ | Medium | ✔️ |

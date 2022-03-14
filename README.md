@@ -17,3 +17,4 @@ Leetcode Challenges Solutions
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | Easy | ✖️ |
 | Remove All Adjacent Duplicates In String | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ | Easy | ✔️ |
 | Uncommon Words from Two Sentences | https://leetcode.com/problems/uncommon-words-from-two-sentences/ | Easy | ✔️ |
+| Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/ | Medium | ✔️ |
